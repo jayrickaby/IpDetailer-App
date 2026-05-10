@@ -19,8 +19,8 @@ Some challenges I faced:
 
 ## Requirements
 - Python
-- Python customtkinter package (included as a git submodule)
-- My [ipdetails](https://github.com/jayrickaby/ipdetails) package
+- Python customtkinter package
+- My [ipdetails](https://github.com/jayrickaby/ipdetails) package (included as a git submodule)
 
 ## Licence
 Copyright © 2026 Jay Rickaby,
