@@ -20,6 +20,7 @@ Some challenges I faced:
 ## Requirements
 - Python
 - Python customtkinter package
+- Python dotenv package
 - My [ipdetails](https://github.com/jayrickaby/ipdetails) package (included as a git submodule)
 
 ## Licence
