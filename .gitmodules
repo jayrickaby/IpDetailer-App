@@ -1,0 +1,3 @@
+[submodule "ipdetails"]
+	path = ipdetails
+	url = https://github.com/jayrickaby/ipdetails
