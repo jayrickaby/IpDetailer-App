@@ -19,7 +19,7 @@ Some challenges I faced:
 
 ## Requirements
 - Python
-- Python customtkinter package
+- Python customtkinter package (included as a git submodule)
 - My [ipdetails](https://github.com/jayrickaby/ipdetails) package
 
 ## Licence
