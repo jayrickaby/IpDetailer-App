@@ -10,6 +10,7 @@ Some challenges I faced:
 - Updating a label dynamically. The transfer rates needed to be updating every second, but I figured out how to get it to change. Hackily, or not.
 
 ## Gallery
+<img width="147.33" height="307.66" alt="image" src="https://github.com/user-attachments/assets/c6e82147-c46b-45c4-8d9d-02a9d5e44e22" />
 
 ## Features
 - A sidebar widget displaying information about: Local IP, Public IP, Location, ISP and Network Traffic.
